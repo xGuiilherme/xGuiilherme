@@ -1,6 +1,6 @@
 ### Olá!
 
-Prazer, me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o back-end.
+Prazer, me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o back-end e Framework Spring Boot.
 
 No momento estou trabalhando com as Tecnologias:
 
