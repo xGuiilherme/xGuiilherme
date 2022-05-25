@@ -4,12 +4,13 @@ Me chamo Guilherme, atualmente estou atuando como Software Developer utilizando 
 
 Tecnologias que eu trabalho no momento:
 
-- APIs REST
+- APIs REST.
 - Microservices e Framework Spring.
-- Oracle SOA Suite 12c / JDeveloper
-- GitHub e Bitbucket
-- MySQL e SQL Server
-- Kibana Elasticsearch
+- Oracle SOA Suite 12c / JDeveloper.
+- Git, GitHub e Bitbucket.
+- MySQL e SQL Server.
+- Kibana Elasticsearch.
+- Argo CD e Jenkins.
 <hr>
 
 
