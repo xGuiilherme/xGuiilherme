@@ -30,6 +30,5 @@ No momento estou trabalhando com as Tecnologias:
   
   ##
   
-
-  <a href="https://www.linkedin.com/in/guilhermeh-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Linkedin Badge](https://img.shields.io/badge/-@guilhermeh--7a07f5?style=flat-square&labelColor=7a07f5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeh-)](https://linkedin.com/in/guilhermeh-)
 </div>
