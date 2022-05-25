@@ -1,8 +1,8 @@
 ### Olá!
 
-Prazer, me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o back-end e Framework Spring Boot.
+Me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o Back End e Framework Spring Boot.
 
-No momento estou trabalhando com as Tecnologias:
+Tecnologias que eu trabalho no momento:
 
 - APIs REST
 - Microservices e Framework Spring.
@@ -30,5 +30,5 @@ No momento estou trabalhando com as Tecnologias:
   
   ##
   
-[![Linkedin Badge](https://img.shields.io/badge/-@guilhermeh--7a07f5?style=flat-square&labelColor=7a07f5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeh-)](https://linkedin.com/in/guilhermeh-)
+[![Linkedin Badge](https://img.shields.io/badge/-@guilhermeh-7a07f5?style=flat-square&labelColor=7a07f5&logo=linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeh-)](https://linkedin.com/in/guilhermeh-)
 </div>
