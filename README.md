@@ -10,7 +10,7 @@ Tecnologias que eu trabalho no momento:
 - Git, GitHub e Bitbucket.
 - MySQL e SQL Server.
 - Kibana Elasticsearch.
-- Argo CD e Jenkins.
+- ArgoCD e Jenkins.
 <hr>
 
 
