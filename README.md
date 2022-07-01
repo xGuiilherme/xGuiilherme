@@ -9,7 +9,7 @@ Tecnologias que eu trabalho no momento:
 - Oracle SOA Suite 12c / JDeveloper.
 - Git, GitHub e Bitbucket.
 - MySQL e SQL Server.
-- Kibana Elasticsearch.
+- Kibana e Elasticsearch.
 - ArgoCD e Jenkins.
 <hr>
 
