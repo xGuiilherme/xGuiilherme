@@ -1,16 +1,19 @@
-### Olá!
+### Prazer!
 
-Me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o Back End e Framework Spring Boot.
+Me chamo Guilherme, atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o Back End.
 
-Tecnologias que eu trabalho no momento:
+Entusiasta por programação e tecnologias motivado por projetos estratégicos e inovações tecnológicas, sempre me aperfeiçoando e buscando novos conhecimentos.
+
+Tecnologias e Ferramentas que estou trabalhando no momento:
 
 - APIs REST.
-- Microservices e Framework Spring.
-- Oracle SOA Suite 12c / JDeveloper.
-- Git, GitHub e Bitbucket.
-- MySQL e SQL Server.
-- Kibana e Elasticsearch.
+- Microservices.
 - ArgoCD e Jenkins.
+- MySQL e SQL Server.
+- Java e Spring Framework.
+- Git, GitHub e Bitbucket.
+- Kibana e Elasticsearch.
+- Oracle SOA Suite 12c - IDE JDeveloper.
 <hr>
 
 
