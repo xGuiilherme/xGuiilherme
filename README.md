@@ -46,8 +46,8 @@ Atualmente estou atuando como Software Developer utilizando a linguagem Java EE 
 ---
 
 ⚡ **Stats**
-<div align="center">
+<div>
   <a href="https://github.com/xGuiilherme">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=xGuiilherme&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGuiilherme&layout=compact&langs_count=7&theme=bear"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=xGuiilherme&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGuiilherme&layout=compact&langs_count=7&theme=bear"/>
 </div>
