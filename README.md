@@ -28,26 +28,26 @@ Atualmente estou atuando como Software Developer utilizando a linguagem Java EE 
 - Oracle SOA Suite 12c - IDE JDeveloper.
 <hr>
 
-🛠️ **Languages and Tools:**
+🛠️ **Tech Stack:**
 
-<div style="display: inline_block">
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Java-FFBF00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Oracle-FE2E2E?style=for-the-badge&logo=oracle&logoColor=black" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/GitHub-424242?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Docker-045FB4?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/Kibana-088A85?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img align="center" alt="" height="25" width="50" src="https://img.shields.io/badge/argo_cd-FF4500?style=for-the-badge&logo=argo&logoColor=white" />
-</div>
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red&color=05122A)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=yellow&color=05122A)&nbsp;
+![Docker.js](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=blue&color=05122A)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=Argo&logoColor=orange&color=05122A)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=orange&color=05122A)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white&color=05122A)&nbsp;
 
 ---
 
 ⚡ **Stats**
 <div>
   <a href="https://github.com/xGuiilherme">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=xGuiilherme&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGuiilherme&layout=compact&langs_count=7&theme=bear"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=xGuiilherme&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xGuiilherme&layout=compact&langs_count=7&theme=monokai"/>
 </div>
