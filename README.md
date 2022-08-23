@@ -21,8 +21,8 @@ Atualmente estou atuando como Software Developer utilizando a linguagem Java EE 
 - APIs REST.
 - Microservices.
 - ArgoCD e Jenkins.
-- MySQL e SQL Server.
-- Java e Spring Framework.
+- MySQL e Oracle SQL.
+- Java e Spring Frameworks.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
 - Oracle SOA Suite 12c - IDE JDeveloper.
