@@ -14,7 +14,7 @@
   
 </div>
 
-Atualmente estou atuando como Software Developer utilizando a linguagem Java EE com foco para o Back End. Entusiasta por programação e tecnologias motivado por projetos estratégicos e inovações tecnológicas, sempre me aperfeiçoando e buscando novos conhecimentos.
+Atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o Back End. Entusiasta por programação e tecnologias motivado por projetos estratégicos e inovações tecnológicas, sempre me aperfeiçoando e buscando novos conhecimentos.
 
 **Tecnologias e Ferramentas que estou trabalhando no momento:**
 
