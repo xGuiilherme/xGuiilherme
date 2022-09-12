@@ -36,7 +36,6 @@ Atualmente estou atuando como Software Developer utilizando a linguagem Java com
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=yellow&color=05122A)&nbsp;
-![Docker.js](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=blue&color=05122A)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=Argo&logoColor=orange&color=05122A)&nbsp;
 
