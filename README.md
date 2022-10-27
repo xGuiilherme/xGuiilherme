@@ -14,15 +14,18 @@
   
 </div>
 
-Atualmente estou atuando como Software Developer utilizando a linguagem Java com foco para o Back End. Entusiasta por programação e tecnologias motivado por projetos estratégicos e inovações tecnológicas, sempre me aperfeiçoando e buscando novos conhecimentos.
+Atualmente estou atuando como Java Software Developer, já tendo desenvolvido projetos e melhorias de features com grandes empresas do setor de rede varejista de farmácias, utilizando o Java com foco para o back-end.
 
-**Tecnologias e Ferramentas que estou trabalhando no momento:**
+Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área que eu atuo.
 
-- APIs REST.
+**Algumas das ferramentas e tecnologias que eu utilizo:**
+
+- API REST.
 - Microservices.
 - ArgoCD e Jenkins.
-- MySQL e Oracle SQL.
-- Java e Spring Frameworks.
+- MySQL e Oracle.
+- Docker, Jenkins e Argo CD.
+- Java e Frameworks Spring.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
 - Oracle SOA Suite 12c - IDE JDeveloper.
