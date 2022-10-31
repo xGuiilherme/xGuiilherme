@@ -22,7 +22,6 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 
 - API REST.
 - Microservices.
-- ArgoCD e Jenkins.
 - MySQL e Oracle.
 - Docker, Jenkins e Argo CD.
 - Java e Frameworks Spring.
