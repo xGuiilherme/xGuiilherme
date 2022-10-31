@@ -18,7 +18,7 @@ Atualmente estou atuando como Java Software Developer, já tendo desenvolvido pr
 
 Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área em que eu atuo.
 
-**Algumas das ferramentas e tecnologias que eu utilizo:**
+**Algumas das ferramentas e tecnologias que eu utilizo no dia a dia:**
 
 - API REST.
 - Microservices.
@@ -27,7 +27,7 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 - Java e Frameworks Spring.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
-- Oracle SOA Suite 12c - IDE JDeveloper.
+- Oracle SOA Suite 12c.
 <hr>
 
 🛠️ **Tech Stack:**
