@@ -14,9 +14,9 @@
   
 </div>
 
-Atualmente estou atuando como Java Software Developer, já tendo desenvolvido projetos e melhorias de features com grandes empresas do setor de rede varejista de farmácias, utilizando o Java com foco para o back-end.
+Atualmente estou atuando como Java Software Developer, já tendo desenvolvido projetos e melhorias de features com grandes empresas do setor de rede varejista de farmácias como Drogarias São Paulo e Drogarias Pacheco, a linguagem Java com foco para o Back-End.
 
-Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área que eu atuo.
+Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área em que eu atuo.
 
 **Algumas das ferramentas e tecnologias que eu utilizo:**
 
