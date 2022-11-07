@@ -14,7 +14,7 @@
   
 </div>
 
-Atualmente estou atuando como Java Software Developer, já tendo desenvolvido projetos e melhorias de features com grandes empresas do setor de rede varejista de farmácias como Drogarias São Paulo e Drogarias Pacheco, a linguagem Java com foco para o Back-End.
+Atuo como Desenvolvedor Java, já desenvolvi alguns projetos e melhorias com grandes empresas varejista utilizando a linguagem Java com foco para o Back-End.
 
 Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área em que eu atuo.
 
@@ -23,8 +23,8 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 - API REST.
 - Microservices.
 - MySQL e Oracle.
-- Docker, Jenkins e Argo CD.
 - Java e Frameworks Spring.
+- Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
 - Oracle SOA Suite 12c.
