@@ -47,4 +47,3 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 ---
 
 ⚡ **Stats**
-
