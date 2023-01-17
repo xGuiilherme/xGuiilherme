@@ -23,7 +23,7 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 - API REST.
 - Microservices.
 - MySQL e Oracle.
-- Java e Frameworks Spring.
+- Java e Spring Framework.
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
