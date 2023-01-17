@@ -39,10 +39,12 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=yellow&color=05122A)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=blue&color=05122A)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins&logoColor=orange&color=05122A)&nbsp;
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=Argo&logoColor=orange&color=05122A)&nbsp;
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=orange&color=05122A)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white&color=05122A)&nbsp;
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=Bitbucket&logoColor=blue&color=05122A)&nbsp;
 
 ---
 
