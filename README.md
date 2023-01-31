@@ -49,3 +49,9 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 ---
 
 ⚡ **Stats**
+
+<div>
+  <a href="https://github.com/xguiilherme/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xguiilherme&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xguiilherme&theme=radical&layout=compact" />
+</div>
