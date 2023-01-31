@@ -32,16 +32,23 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 
 🛠️ **Tech Stack:**
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red&color=05122A)&nbsp;
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=B22222)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=yellow&color=05122A)&nbsp;
+
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=yello&color=05122A)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=blue&color=05122A)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=blue&color=05122A)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=blue&color=05122A)&nbsp;
+
+- ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=blue&color=05122A)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=Jenkins&logoColor=orange&color=05122A)&nbsp;
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-05122A?style=flat&logo=Argo&logoColor=orange&color=05122A)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=blue&color=05122A)&nbsp;
+
+- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&logoColor=yellow&color=05122A)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=orange&color=05122A)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white&color=05122A)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=Bitbucket&logoColor=blue&color=05122A)&nbsp;
