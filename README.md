@@ -14,14 +14,14 @@
   
 </div>
 
-Atuo como Desenvolvedor Java, já desenvolvi alguns projetos e melhorias com grandes empresas varejista utilizando a linguagem Java com foco para o Back-End.
+Sou Desenvolvedor Java e já tive a oportunidade de trabalhar em projetos e melhorias com grandes empresas varejistas. Meu foco principal é o desenvolvimento Back-End, utilizando Java e Spring Framework, além de outras ferramentas, como Docker, Jenkins e Git.
 
-Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área em que eu atuo.
+Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
 
-**Algumas das ferramentas e tecnologias que eu utilizo no dia a dia:**
+**Algumas das ferramentas e tecnologias que eu utilizo:**
 
-- API REST.
-- Microservices.
+- Desenvolvimento de APIs REST.
+- Microsservices.
 - MySQL e Oracle.
 - Java e Spring Framework.
 - Docker, Jenkins e Argo CD.
