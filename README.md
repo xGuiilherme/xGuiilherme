@@ -10,7 +10,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-@guilhermeh-DC143C?style=flat-square&labelColor=0000CD&logo=linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeh-)](https://linkedin.com/in/guilhermehm)
+[![Linkedin Badge](https://img.shields.io/badge/-@guilhermehm-DC143C?style=flat-square&labelColor=0000CD&logo=linkedin&logoColor=white&link=https://linkedin.com/in/guilhermeh-)](https://linkedin.com/in/guilhermehm)
   
 </div>
 
