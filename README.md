@@ -30,7 +30,7 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 - Oracle SOA Suite 12c.
 <hr>
 
-🛠️ **Tech Stack:**
+🛠️ **Techs:**
 
 - ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=B22222)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
