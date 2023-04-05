@@ -18,7 +18,7 @@ Sou Desenvolvedor Java e já tive a oportunidade de trabalhar em projetos e melh
 
 Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
 
-**Algumas das ferramentas e tecnologias que eu utilizo:**
+**Algumas das ferramentas e tecnologias que eu utilizo no meu dia a dia:**
 
 - Desenvolvimento de APIs REST.
 - Microsservices.
