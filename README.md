@@ -1,4 +1,4 @@
-<h1 align="left">Prazer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> me chamo Guilherme!</h1>
+<h1 align="left">Prazer, me chamo Guilherme!</h1>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p>
