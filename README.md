@@ -37,9 +37,7 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
 
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=yello&color=05122A)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&logoColor=blue&color=05122A)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=blue&color=05122A)&nbsp;
+- ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=blue&color=05122A)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=blue&color=05122A)&nbsp;
 
 - ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
