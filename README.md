@@ -32,13 +32,14 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 
 🛠️ **Techs:**
 
-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=B22222)&nbsp;
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=FF8C00)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=blue&color=05122A)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=blue&color=05122A)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue&color=05122A)&nbsp;
 
 - ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
