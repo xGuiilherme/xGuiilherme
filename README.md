@@ -1,4 +1,4 @@
-<h1 align="left">Prazer, me chamo Guilherme!</h1>
+<h1 align="left">Bem-vindo(a) ao meu perfil.</h1>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p>
