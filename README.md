@@ -58,6 +58,6 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 
 <div>
   <a href="https://github.com/xguiilherme/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=xguiilherme&show_icons=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xguiilherme&theme=radical&layout=compact" />
+  <img height="150" src="https://github-readme-stats.zohan.tech/api?username=xguiilherme&show_icons=true&theme=radical" />
+  <img height="150" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=xguiilherme&theme=radical&layout=compact" />
 </div>
