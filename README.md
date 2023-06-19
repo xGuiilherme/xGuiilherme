@@ -21,9 +21,9 @@ Sou um grande entusiasta por programação e tecnologias e estou sempre me aperf
 **Algumas das ferramentas e tecnologias que eu utilizo no meu dia a dia:**
 
 - Desenvolvimento de APIs REST.
-- Microsservices.
-- MySQL e Oracle.
+- Arquitetura de microsserviços.
 - Java e Spring Framework.
+- MySQL e Oracle.
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
 - Kibana e Elasticsearch.
