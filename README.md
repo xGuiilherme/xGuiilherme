@@ -14,9 +14,9 @@
   
 </div>
 
-Sou Desenvolvedor Java e já tive a oportunidade de trabalhar em projetos e melhorias com grandes empresas varejistas. Meu foco principal é o desenvolvimento Back-End, utilizando Java e Spring Framework, além de outras ferramentas, como Docker, Jenkins e Git.
+Sou desenvolvedor java back-end apaixonado por tecnológia. Com mais de 2 anos de experiência. Meu foco é criar aplicações escalável e funcionais, tive a oportunidade de trabalhar em projetos e melhorias com grandes empresas varejistas. Meu foco principal é o desenvolvimento back-end, utilizando Java e Spring Framework.
 
-Sou um grande entusiasta por programação e tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
+Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
 
 Portfolio: [Clique aqui para acessar.](https://guilhermesmarin.vercel.app/)
 
