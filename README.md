@@ -30,7 +30,7 @@ Portfolio: [Clique aqui para acessar.](https://guilhermesmarin.vercel.app/)
 - MySQL e Oracle.
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
-- Kibana e Elasticsearch.
+- Kibana e Elastic Search.
 - Oracle SOA Suite 12c.
 <hr>
 
