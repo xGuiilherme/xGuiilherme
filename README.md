@@ -23,9 +23,9 @@ Portfolio: [Clique aqui para acessar.](https://guilhermesmarin.vercel.app/)
 **Algumas das ferramentas e tecnologias que eu utilizo no meu dia a dia:**
 
 - Desenvolvimento de APIs REST.
+- Apigee e App Integration.
 - Arquitetura de microsserviços.
 - Java e Spring Framework.
-- Clean Arch.
 - SOLID.
 - MySQL e Oracle.
 - Docker, Jenkins e Argo CD.
