@@ -18,8 +18,6 @@ Sou um desenvolvedor Java back-end apaixonado por tecnologia, com mais de 2 anos
 
 Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
 
-Portfolio: [Clique aqui para acessar.](https://guilhermesmarin.vercel.app/)
-
 **Minha rotina envolve o uso diário de ferramentas como:**
 
 - Desenvolvimento de APIs REST.
