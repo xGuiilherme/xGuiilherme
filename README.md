@@ -1,7 +1,7 @@
 <h1 align="left">Bem-vindo(a) ao meu perfil!</h1>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
