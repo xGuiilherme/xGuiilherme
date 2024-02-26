@@ -14,7 +14,7 @@
   
 </div>
 
-Sou um desenvolvedor Java back-end apaixonado por tecnologia, com mais de 2 anos de experiência. Tenho me dedicado à criação de aplicações escaláveis e funcionais, colaborando em projetos e melhorias com grandes empresas varejistas. Minha ênfase principal está no desenvolvimento back-end, onde utilizo Java e Spring Framework.
+Sou um desenvolvedor Java back-end, com mais de 2 anos de experiência. Tenho me dedicado à criação de aplicações escaláveis e funcionais, colaborando em projetos e melhorias com grandes empresas varejistas. Minha ênfase principal está no desenvolvimento back-end, onde utilizo Java e Spring Framework.
 
 Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
 
