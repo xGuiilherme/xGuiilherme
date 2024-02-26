@@ -3,6 +3,13 @@
 <!-- Profile Views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p> -->
 
+<p>
+  <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
+  <img src="https://img.shields.io/badge/Front End-Angular-f55247"/>
+<a href="https://github.com/xGuiilherme/">
+<a href="https://github.com/xGuiilherme?tab=repositories">
+</a></p>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/xGuiilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Experienced%20Java+%20and%20MySQL;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -35,6 +42,7 @@ Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e busc
 🛠️ **Techs:**
 
 - ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=FF8C00)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=d22e2e)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
