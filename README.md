@@ -21,13 +21,15 @@
   
 </div>
 
-Sou um desenvolvedor Java back-end, com mais de 2 anos de experiência. Tenho me dedicado à criação de aplicações escaláveis e funcionais, colaborando em projetos e melhorias com grandes empresas varejistas. Minha ênfase principal está no desenvolvimento back-end, onde utilizo Java e Spring Framework.
+Sou um desenvolvedor Java back-end com mais de 2 anos de experiência, tenho me dedicado à criação de aplicações escaláveis e funcionais. colaborando em projetos e melhorias com grandes empresas varejistas, contribuindo para soluções eficientes e inovadoras.
 
-Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e buscando novos conhecimentos na área de atuação.
+Atuei na implementação e otimização de soluções em nuvem dentro da GCP, utilizando serviços como Cloud Storage, Cloud Functions e Cloud Firestore para integrações entre sistemas, incluindo SAP, Salesforce e BigQuery, utilizando Application Integration e Apigee para simplificar e otimizar os processos criando fluxos para as integrações.
+
+Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na área de atuação.
 
 **Minha rotina envolve o uso diário de ferramentas como:**
 
-- Desenvolvimento de APIs REST.
+- Desenvolvimento de APIs RESTful.
 - Apigee e App Integration.
 - Arquitetura de microsserviços.
 - Java e Spring Framework.
@@ -36,6 +38,7 @@ Sou um grande entusiasta por tecnologias e estou sempre me aperfeiçoando e busc
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
 - Kibana e Elastic Search.
+- Prometheus e Grafana
 - Oracle SOA Suite 12c.
 <hr>
 
