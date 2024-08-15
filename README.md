@@ -1,4 +1,4 @@
-<h1 align="left">Bem-vindo(a) ao meu perfil!</h1>
+<h1 align="left">Olá, seja muito bem-vindo(a) ao meu perfil !</h1>
 
 <!-- Profile Views -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xGuiilherme&color=blue" alt="Profile views" /> </p> -->
@@ -21,9 +21,7 @@
   
 </div>
 
-Sou um desenvolvedor Java back-end com mais de 2 anos de experiência, tenho me dedicado à criação de aplicações escaláveis e funcionais. colaborando em projetos e melhorias com grandes empresas varejistas, contribuindo para soluções eficientes e inovadoras.
-
-Atuei na implementação e otimização de soluções em nuvem dentro da GCP, utilizando serviços como Cloud Storage, Cloud Functions e Cloud Firestore para integrações entre sistemas, incluindo SAP, Salesforce e BigQuery, utilizando Application Integration e Apigee para simplificar e otimizar os processos criando fluxos para as integrações.
+Sou um desenvolvedor Java back-end com mais de 3 anos de experiência, tenho me dedicado à criação de aplicações escaláveis e funcionais. colaborando em projetos e melhorias com grandes empresas do setor varejistas, contribuindo para soluções eficientes e inovadoras.
 
 Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na área de atuação.
 
@@ -33,11 +31,11 @@ Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na �
 - Apigee e App Integration.
 - Arquitetura de microsserviços.
 - Java e Spring Framework.
-- SOLID.
+- SOLID e DDD.
 - MySQL e Oracle.
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
-- Kibana e Elastic Search.
+- Kibana e ElasticSearch.
 - Prometheus e Grafana
 - Oracle SOA Suite 12c.
 <hr>
