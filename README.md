@@ -28,15 +28,15 @@ Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na �
 **Minha rotina envolve o uso diário de ferramentas como:**
 
 - Desenvolvimento de APIs RESTful.
-- Apigee e App Integration.
+- Apigee e Application Integration (GCP).
 - Arquitetura de microsserviços.
 - Java e Spring Framework.
 - SOLID e DDD.
-- MySQL e Oracle.
+- MySQL e NoSQL.
 - Docker, Jenkins e Argo CD.
 - Git, GitHub e Bitbucket.
 - Kibana e ElasticSearch.
-- Prometheus e Grafana
+- Prometheus e Grafana.
 - Oracle SOA Suite 12c.
 <hr>
 
