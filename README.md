@@ -21,7 +21,7 @@
   
 </div>
 
-Sou um desenvolvedor Java back-end com mais de 3 anos de experiência, tenho me dedicado à criação de aplicações escaláveis e funcionais. colaborando em projetos e melhorias com grandes empresas do setor varejistas, contribuindo para soluções eficientes e inovadoras.
+Desenvolvedor Java back-end com mais de 3 anos de experiência, dedicado à criação de aplicações escaláveis e funcionais para grandes empresas do setor varejista. Meu foco é desenvolver soluções eficientes e inovadoras que melhorem o desempenho dos negócios.
 
 Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na área de atuação.
 
