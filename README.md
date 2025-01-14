@@ -27,17 +27,16 @@ Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na �
 
 **Minha rotina envolve o uso diário de ferramentas como:**
 
-- Desenvolvimento de APIs RESTful.
-- Apigee e Application Integration (GCP).
+- Linguagens e Frameworks: Java, Spring Boot, RESTful API.
 - Arquitetura de microsserviços.
-- Java e Spring Framework.
-- SOLID e DDD.
-- MySQL e NoSQL.
-- Docker, Jenkins e Argo CD.
-- Git, GitHub e Bitbucket.
-- Kibana e ElasticSearch.
-- Prometheus e Grafana.
-- Oracle SOA Suite 12c.
+- Mensageria e Cache: RabbitMQ, Kafka, Redis.
+- Bancos de dados SQL: MySQL, PostgreSQL.
+- Bancos de dados NoSQL: MongoDB, Bigtable, Firestore.
+- DevOps e Infraestrutura: Docker, ArgoCD, CI/CD (Jenkins).
+- Observabilidade: Prometheus, Grafana, Elastic Stack (ELK).
+- API Gateways: Apigee, Kong.
+- Cloud: GCP e AWS.
+- Git e Github.
 <hr>
 
 🛠️ **Techs:**
