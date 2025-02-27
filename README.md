@@ -12,7 +12,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/xGuiilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Experienced%20Java+%20and%20MySQL;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/xGuiilherme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Experienced%20Java+%20and%20Spring;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things!!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <div align="center">
@@ -33,7 +33,7 @@ Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na �
 - Bancos de dados SQL: MySQL, PostgreSQL.
 - Bancos de dados NoSQL: MongoDB, Bigtable, Firestore.
 - DevOps e Infraestrutura: Docker, ArgoCD, CI/CD (Jenkins).
-- Observabilidade: Prometheus, Grafana, Elastic Stack (ELK).
+- Observabilidade: Prometheus, Grafana, ELK Stack.
 - API Gateways: Apigee, Kong.
 - Cloud: GCP e AWS.
 - Git e Github.
@@ -41,11 +41,11 @@ Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na �
 
 🛠️ **Techs:**
 
-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=FF8C00)&nbsp;
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=buy-me-a-coffee&logoColor=d22e2e)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=Angular&logoColor=d22e2e)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-05122A?style=flat&logo=Spring&logoColor=gren&color=05122A)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=Oracle&logoColor=DF0101&color=05122A)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=01FCEF&color=05122A)&nbsp;
 
 - ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman&logoColor=orange&color=05122A)&nbsp;
 ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=Kibana&logoColor=04B486&color=05122A)&nbsp;
