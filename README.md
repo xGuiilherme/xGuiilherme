@@ -21,9 +21,9 @@
   
 </div>
 
-Desenvolvedor Java back-end com mais de 3 anos de experiência, dedicado à criação de aplicações escaláveis e funcionais para grandes empresas do setor varejista. Meu foco é desenvolver soluções eficientes e inovadoras que melhorem o desempenho dos negócios.
+𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐉𝐚𝐯𝐚 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 com mais de 𝟑 𝐚𝐧𝐨𝐬 𝐝𝐞 𝐞𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 na criação de soluções escaláveis e de alto desempenho para grandes empresas do varejo. Atualmente, estou aprimorando meus conhecimentos e habilidades estratégicas cursando um 𝐌𝐁𝐀 𝐞𝐦 𝐀𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐮𝐫𝐚 𝐝𝐞 𝐒𝐨𝐥𝐮çõ𝐞𝐬 para desenvolver soluções eficientes e inovadoras que melhorem o desempenho dos negócios.
 
-Estou sempre me aperfeiçoando e buscando novos conhecimentos e habilidades na área de atuação.
+Estou sempre aprimorando minhas habilidades e adquirindo novos conhecimentos para entregar resultados cada vez melhores.
 
 **Minha rotina envolve o uso diário de ferramentas como:**
 
