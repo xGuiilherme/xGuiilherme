@@ -21,22 +21,25 @@
   
 </div>
 
-𝐃𝐞𝐬𝐞𝐧𝐯𝐨𝐥𝐯𝐞𝐝𝐨𝐫 𝐉𝐚𝐯𝐚 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 com mais de 𝟑 𝐚𝐧𝐨𝐬 𝐝𝐞 𝐞𝐱𝐩𝐞𝐫𝐢ê𝐧𝐜𝐢𝐚 na criação de soluções escaláveis e de alto desempenho para grandes empresas do varejo. Atualmente, estou aprimorando meus conhecimentos e habilidades estratégicas cursando um 𝐌𝐁𝐀 𝐞𝐦 𝐀𝐫𝐪𝐮𝐢𝐭𝐞𝐭𝐮𝐫𝐚 𝐝𝐞 𝐒𝐨𝐥𝐮çõ𝐞𝐬 para desenvolver soluções eficientes e inovadoras que melhorem o desempenho dos negócios.
+**Desenvolvedor Backend Java** com experiência em soluções para grandes empresas dos setores de varejo, saúde, financeiro e pagamentos, atuando no desenvolvimento e modernização de APIs, microsserviços e integrações corporativas.
 
-Estou sempre aprimorando minhas habilidades e adquirindo novos conhecimentos para entregar resultados cada vez melhores.
+Tenho atuação em ecossistemas cloud e API Management, utilizando tecnologias como Java, Spring Boot, Spring Cloud, Spring Security, Apache Kafka, RabbitMQ, Apigee e Google Cloud Platform (GCP), além de experiência com integração entre sistemas corporativos, mensageria, observabilidade e arquitetura orientada a eventos.
+
+Ao longo da minha trajetória, participei de projetos de evolução de plataformas, modernização de integrações legadas, implantação de soluções em cloud e iniciativas com foco em escalabilidade, segurança, governança e eficiência operacional.
+
+Também sou formado pela FIAP em MBA em Arquitetura de Soluções, o que fortaleceu minha visão sobre arquitetura corporativa, integração, segurança e boas práticas de engenharia de software.
 
 **Minha rotina envolve o uso diário de ferramentas como:**
 
-- Linguagens e Frameworks: Java, Spring Boot, RESTful API.
-- Arquitetura de microsserviços.
-- Mensageria e Cache: RabbitMQ, Kafka, Redis.
+- Backend e Frameworks: Java, Spring Boot, Spring Security, Spring Cloud, Spring Data, Spring MVC, Apache Camel.
+- Google Cloud (GCP): Cloud Functions, Pub/Sub, Cloud Storage, BigQuery.
+- Mensageria e Event Streaming: RabbitMQ, Kafka, Pub/Sub.
+- API Menagement e Gateways: Apigee, Kong.
 - Bancos de dados SQL: MySQL, PostgreSQL.
 - Bancos de dados NoSQL: MongoDB, Bigtable, Firestore.
-- DevOps e Infraestrutura: Docker, ArgoCD, CI/CD (Jenkins).
-- Observabilidade: Prometheus, Grafana, ELK Stack.
-- API Gateways: Apigee, Kong.
-- Cloud: GCP e AWS.
-- Git e Github.
+- DevOps e CI/CD: ArgoCD, Azure DevOps, Jenkins.
+- Containers e Orquestração: Docker, Kubernetes.
+- Observabilidade e Monitoramento: Prometheus, Grafana, ELK Stack.
 <hr>
 
 🛠️ **Techs:**
